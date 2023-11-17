@@ -27,6 +27,8 @@ Smoker Males = 911
 People with no risk of 10 years = 511
 People with risk of 10 years = 2879 These are brief inferences that could be obtained from a through glance at the rows and columns of the dataset, after which data visualisation was performed.
 
+The logistic, grid-search CV, and XGBoost models were applied to the dataset to test hypotheses. Results indicate varying performance across models. Logistic classification provided insights into the data, grid-search CV optimized model parameters, and XGBoost classification offered enhanced predictive capabilities. Combining these approaches contributes to a comprehensive understanding of the dataset, enabling informed decision-making in relevant contexts.The logistic, grid-search CV, and XGBoost models were applied to the dataset to test hypotheses. Results indicate varying performance across models. Logistic classification provided insights into the data, grid-search CV optimized model parameters, and XGBoost classification offered enhanced predictive capabilities. Combining these approaches contributes to a comprehensive understanding of the dataset, enabling informed decision-making in relevant contexts.
+
 **Problem Statement -**
 
 The dataset is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has a 10-year risk of future coronary heart disease (CHD). The dataset provides the patients' information. It includes over 4,000 records and 15 attributes. Each attribute is a potential risk factor. There are both demographic, behavioral, and medical risk factors.
